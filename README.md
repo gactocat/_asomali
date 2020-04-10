@@ -1,2 +1,2 @@
 # somali
-Trial to monorepo in gradle 🐵
+Trial Jenkinsfile 🐵
